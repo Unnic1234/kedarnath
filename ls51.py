@@ -1,3 +1,4 @@
+PROGRAM TO PRINT TRUE CONDITIONS BY USING WHILE STATEMENT
 while True:
 	a=int(input("enter some value:"))
 	if(a==1):
@@ -5,3 +6,34 @@ while True:
 	else:
 		print("n")
 		break
+		
+OUTPUT
+dl220@soetcse:~/kedarnath$ python3 ls51.py
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:6
+n
