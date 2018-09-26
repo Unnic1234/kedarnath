@@ -1,3 +1,4 @@
+PROGRAM TO PRINT RANDOM NUMBERS OF DICE
 import random
 r=random.randint(1,6)
 print(r)
