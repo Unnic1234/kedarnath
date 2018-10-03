@@ -5,3 +5,17 @@ while True:
 	else:
 		print("n")
 		break
+		
+OUTPUT
+
+dl220@soetcse:~/kedarnath$ python3 ls51.py
+enter some value:1
+y
+enter some value:1   
+y
+enter some value:1
+y
+enter some value:1
+y
+enter some value:6
+n
